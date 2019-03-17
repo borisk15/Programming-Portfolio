@@ -1,1 +1,36 @@
 This folder contains some basic programming exercises which I've completed from multiple sources.
+
+Below is a description of what each of the programs do
+
+- PrimeNumber.py : This program determines whether an inputted integer is a prime number or not
+
+- Palindrome.py : This program determines whether an inputted string is a palindrome or not.
+
+- CountOccurences.py : This program returns the number of characters, words, lines & vowels from a text file. It is a very 
+simple program that is meant to work for text files containing strings only. 
+
+- Binary.py : This is a simple program that converts user-inputted binary numbers into decimal numbers
+
+- holiday.py : This program calculates the cost of going on a holidy based on the cost of accommodation & transport.
+
+- Calculator.py : This simple program serves as a simple calculator for the user. The user can input two numbers and 
+choose an operation from addition, subtraction, multiplication and division.
+
+- factorial.java : This program calculates the factorial of a user-inputted number
+
+- rockPaperScissors.java : this program implements a simple game of Rock, Paper & Scissors
+
+- NoDups.java : this is a simple program that creates a function which accepts an integer array argument and removes all
+duplicates from that array
+
+- answers.java : this is a simple program that implements a quick mathematical test for the user to complete by
+providing the user with a set of subtraction questions from randomly generated numbers, accepting
+the user's answer and reporting whether the answer was correct or wrong. The test also keeps an 
+execution log of all the questions and answers, and at the end provides the amount of time taken
+to complete the test.
+
+- HexToDecimalConversion.java : this program implements a simple program to convert a hex string to a decimal number
+
+- UpdateTest.java : this program executes a simple SQL Update query
+
+- InsertTest.java : this program executes a simple SQL insert and SQL delete query

@@ -4,6 +4,7 @@ Created on Mon Aug 13 12:02:01 2018
 
 @author: BorisKouambo
 """
+# This is a simple program to calculate the total cost of delivering a package, using basic control structures
 
 price = eval(input("Please enter the price of your purchase: "))
 distance = eval(input("Please enter the distance of the delivery in Kms: "))

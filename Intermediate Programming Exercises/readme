@@ -1,1 +1,17 @@
-This folder contains some programming exercises completed by me.
+This folder contains some programming exercises completed by me from various sources.
+
+Below is a description of what each of the programs do
+
+  - Course.java : this program implements a class 'Course' class, that defines a course at university, and then 
+    implements the Java Comparator interface to provide new Comparator Classes that will be used to 
+    compare the courses using two different criteria. Finally, the program then compares some courses
+    and using the Java Collections Framework, executes certain operations on the Course instances.
+
+  - QuickSort.java : this program is a simple implementation of the QuickSort algorithm
+  
+  - linearRegression.py : This program executes a simple linear regression algorithm on the diabetes datasets from the sklearn
+    module. The program defines a custom linear regression function that returns the slope and intercept of
+    the regression line of best fit, and then implements it on the required training dataset. The resultant 
+    line is then tested on the test data set. 
+    
+  - kmeans.py : this program is a simple implementation of the K-Means Clustering Algorithm

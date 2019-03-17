@@ -1,0 +1,6 @@
+This project consisted of creating a database of books available at a Bookstore using MySQL, and building a java program that
+allows the bookstore clerk (or any other user) to perform certain actions on the database, including: 
+  - entering new books into the database
+  - update book information
+  - delete books from the database
+  - search a database to find a specific book

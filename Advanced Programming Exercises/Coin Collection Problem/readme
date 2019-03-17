@@ -1,0 +1,22 @@
+This exercise is termed the 'coin-collection problem'.
+
+Problem description: 
+Several coins are placed in cells of an n×m board (for this exercise, each cell contains at most 1 coin).  
+A robot, located in the upper left cell of the board, needs to collect as many of the coins as possible and bring them
+to the bottom right cell. On each step, the robot can move either one cell to the right or one cell down from its 
+current location. 
+
+File description: coin_robot.py
+
+This program defines a coin_robot class to represent the robot that executes our problem.
+First the class initializes the problem environment by generating the map and initializing all necessary variables for 
+the environment. It then defines appropriate functions to solve the problem by updating the robot's path based on the 
+most optimal decision (which the program also determines with a calculation). This program then implements code that
+will execute when the coin_robot class gets called as __main__. 
+
+File description: draw.py
+
+This program draws the game environment and the path of the robot when executing our collection algorithm.
+
+
+Note: My solution to the coin-collection problem implemented dynamic programming principles. 

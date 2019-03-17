@@ -9,8 +9,8 @@ Below is a description of what each of the programs do
 
   - QuickSort.java : this program is a simple implementation of the QuickSort algorithm
   
-  - linearRegression.py : This program executes a simple linear regression algorithm on the diabetes datasets from the sklearn
-    module. The program defines a custom linear regression function that returns the slope and intercept of
+  - linearRegression.py : This program executes a simple linear regression algorithm on the diabetes datasets from
+    the sklearn module. The program defines a custom linear regression function that returns the slope and intercept of
     the regression line of best fit, and then implements it on the required training dataset. The resultant 
     line is then tested on the test data set. 
     

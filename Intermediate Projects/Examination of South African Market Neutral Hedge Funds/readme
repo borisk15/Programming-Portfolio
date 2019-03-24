@@ -6,3 +6,5 @@ and I also performed an analysis of the systemic risks that these funds are pron
 In this folder, I do not include the hedge fund return datasets that I used due to confidentiality issues. Nonetheless, the
 analysis can be easily followed by reading the code. With a custom dataset, you could easily replicate the analysis
 for your dataset. 
+
+Furthermore, in order to run the code without any errors, certain packages must be installed first. 

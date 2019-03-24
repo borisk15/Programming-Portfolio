@@ -1,0 +1,8 @@
+This project involved an examination of SA Market Neutral hedge funds.
+
+I performed an examination of their neutrality by considering various definitions of neutrality but focusing on tail neutrality;
+and I also performed an analysis of the systemic risks that these funds are prone to. 
+
+In this folder, I do not include the hedge fund return datasets that I used due to confidentiality issues. Nonetheless, the
+analysis can be easily followed by reading the code. With a custom dataset, you could easily replicate the analysis
+for your dataset. 
